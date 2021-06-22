@@ -31,7 +31,7 @@ python train.py --lr=0.25 --seed=20210618 --decay=1e-4 --batch-size 64 --model v
 以下两种情形运行时需要先
 
 ```
-$cd Coutout_None
+$cd Cutout_None
 ```
 
 运行Cutout的命令：
